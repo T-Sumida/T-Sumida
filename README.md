@@ -1,6 +1,6 @@
 
 ### Github Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kazuhito00&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&title=MultiLanguage,Commit,Stars,Repositories,Followers,Issues&margin-w=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=T-Sumida&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&title=MultiLanguage,Commit,Stars,Repositories,Followers,Issues&margin-w=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### SNS
 [<img src="https://user-images.githubusercontent.com/37477845/94174253-05ab8180-fed0-11ea-8cf6-312bdb610b74.png" width="32px">](https://twitter.com/sumita_v09) [<img src="https://user-images.githubusercontent.com/37477845/94174258-06dcae80-fed0-11ea-9d11-b6ef832e54a4.png" width="32px">](https://t-sumida.hatenablog.com/) [<img src="https://user-images.githubusercontent.com/37477845/94174261-06dcae80-fed0-11ea-99d4-cc66d7a91c31.png" width="32px">](https://qiita.com/sumita_v09) 
