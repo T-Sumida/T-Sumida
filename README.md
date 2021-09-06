@@ -10,6 +10,9 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/sumita_v09/contributions.svg)](http://qiita.com/sumita_v09)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/sumita_v09/followers.svg)](http://qiita.com/sumita_v09)
 
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40sumida_v09)](https://twitter.com/sumita_v09)
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=T-Sumida)](https://github.com/ryo-ma/github-profile-trophy)
 
 
